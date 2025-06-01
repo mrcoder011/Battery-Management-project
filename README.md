@@ -29,7 +29,7 @@ This web application simulates how different electrical loads affect the driving
 ### Physics-Based Model
 The application uses physics-based calculations to estimate range:
 - **Speed Impact**: Aerodynamic drag increases with speed
-- **Climate Control**: Direct energy consumption
+- **Climate Control**: Direct energy consumption.
 - **Terrain**: Energy requirements for elevation changes
 - **Battery Capacity**: Total available energy
 
