@@ -8,7 +8,7 @@ This web application simulates how different electrical loads affect the driving
 
 - **Vehicle Type Selection**: Choose between Pure EV or Hybrid
 - **Interactive Controls**:
-  - Driving Speed (20-120 km/h)
+  - Driving Speed (20-120 km/h).
   - Climate Control Load (0-5 kW)
   - Terrain Elevation (Flat to Mountainous)
   - Battery Capacity (40-120 kWh)
