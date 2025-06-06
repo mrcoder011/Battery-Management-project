@@ -12,7 +12,7 @@ This web application simulates how different electrical loads affect the driving
   - Climate Control Load (0-5 kW)
   - Terrain Elevation (Flat to Mountainous)
   - Battery Capacity (40-120 kWh)
-- **Real-time Visualizations**:
+- **Real-time Visualizations**:.
   - Animated vehicle that moves according to selected speed
   - Dynamic range calculation display
   - Performance metrics chart
